@@ -1,4 +1,5 @@
 ## Hi, I'm ZaRk90s!
 
-[![ZaRk90s GitHub stats](https://github-readme-stats.vercel.app/api?username=zark90s)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Github stats from [https://github.com/](https://github.com/anuraghazra/github-readme-stats) -->
+[![ZaRk90s GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaRk90s)](https://github.com/anuraghazra/github-readme-stats)
 
