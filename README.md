@@ -10,7 +10,7 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-# 📊 Github Stats
+# 📊 Github Stats
 <!-- Github stats from [https://github.com/](https://github.com/anuraghazra/github-readme-stats) -->
 [![ZaRk90s GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaRk90s)](https://github.com/anuraghazra/github-readme-stats)
 
